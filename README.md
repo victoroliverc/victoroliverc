@@ -8,7 +8,7 @@
   - NodeJS, Express
   - ReactJS
   - MongoDB
-- 📫 If you want to reach me, I have a <a href="https://www.linkedin.com/in/victor-oliveira-cunha-ba3a31216/" target="_blank">Linkedin</a>
+- 📫 If you want to reach me, I have a <a href="www.linkedin.com/in/victor-cunha-ba3a31216">Linkedin</a>
 
 <!---
 victoroliverc/victoroliverc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
