@@ -1,9 +1,9 @@
-<h1>Hello, world. I'm Victor Cunha</h1>
+<h1>Hello, world! I'm Victor Cunha</h1>
 
 <hr>
 
 - 💡 I am a Electronic Technician. I love make some circuits and have fun with microcontrollers
-- 🌱 I’m currently developing fullstack skills:
+- 💻 I’m currently developing fullstack skills
   - HTML, CSS, JavaScript
   - NodeJS
   - ReactJS
